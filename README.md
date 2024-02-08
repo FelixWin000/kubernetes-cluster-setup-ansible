@@ -84,5 +84,5 @@ kubeadm init
 
 # Optional services
 
-Melallb and longhorn
+MetalLB and longhorn
 
