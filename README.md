@@ -21,7 +21,6 @@ apt install ansible
 You need to generate rsa keys on your local machine and copy the rsa.pub to manage nodes. The can be done with following command:
 
 Generate rsa keys
-For MAC
 ```
 ssh-keygen
 ```
